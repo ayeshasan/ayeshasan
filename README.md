@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayeshasan
+<!---
 - 👀 I’m interested in learrning!
 - 🌱 I’m currently learning about networks, organizations, electronic devices and web development.
-<!---
 - 💞️ I’m looking to collaborate on fun projects.
 --->
 - 📫 You can reach me at ayeshasan15@gmail.com
