@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ayeshasan
+- A fourth year electrical engineering student at the University of Toronto
+- 🌱 I’m currently learning about computer hardware, classical mythology, multimedia systems, databases and web development!
 <!---
 - 👀 I’m interested in learrning!
 - 🌱 I’m currently learning about networks, organizations, electronic devices and web development.
